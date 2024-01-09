@@ -189,3 +189,11 @@ nav_cart{
 .box_content p{
     color:#007185;
 }
+
+/* shope section 2 */
+
+.shop_section2{
+    height: 281px;
+    /* width: 950px; */
+    background-color:#e2e7e6 ;
+}
