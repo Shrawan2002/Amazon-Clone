@@ -271,6 +271,7 @@ nav_cart{
     background-size: cover;
     padding: 20px 0px 15px;
 }
-.shop_section2 ~ p{
-    font-size: 30px;
+.heading{
+    font-size: 1.5rem;
+    margin-left: 2rem;
 }
