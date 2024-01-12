@@ -206,10 +206,11 @@ nav_cart{
     margin-left: 1rem;
     margin-right: 1rem;
     margin-top: 1rem;
-    height: 270px;
+    /* height: 270px; */
     width: 98%;
     display: flex;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
+    align-items: center;
     background-color: #007185;
 }
 
@@ -227,8 +228,33 @@ nav_cart{
 
 
 .shope_item2{
-    height: 260px;
-    width: 80px;
+    height: 250px;
+    width: 250px;
     border: 2px solid black;
+    background-image: url("box91.jpg");
+    background-size: cover;
 
+}
+
+.shope_item3{
+    height: 250px;
+    width: 470px;
+    border: 2px solid black;
+    background-image: url("box92.jpg");
+    background-size: cover;
+}
+.shope_item4{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    background-image: url("box96.jpg");
+    background-size: cover;
+}
+
+.shope_item5{
+    height: 250px;
+    width: 150px;
+    border: 2px solid black;
+    background-image: url("box95.jpg");
+    background-size: cover;
 }
