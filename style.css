@@ -194,7 +194,7 @@ nav_cart{
 
 .shop_section2{
     height: 330px;
-    width: 100%;
+    width: 98%;
     background-color:white ;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -209,18 +209,19 @@ nav_cart{
     /* height: 270px; */
     width: 98%;
     display: flex;
-    /* justify-content: space-evenly; */
+    justify-content: space-evenly;
     align-items: center;
-    background-color: #007185;
+    /* background-color: #007185; */
 }
 
 
 .shope_item1{
     height: 250px;
     width: 70px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     background-image: url("box9.jpg");
     background-size: cover;
+    padding: 20px 0px 15px;
 
 }
 
@@ -229,39 +230,47 @@ nav_cart{
 .shope_item2{
     height: 250px;
     width: 250px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     background-image: url("box91.jpg");
     background-size: cover;
+    /* padding: 20px 0px 15px; */
 
 }
 
 .shope_item3{
     height: 250px;
-    width: 470px;
-    border: 2px solid black;
+    width: 480px;
+    /* border: 2px solid black; */
     background-image: url("box92.jpg");
     background-size: cover;
+    /* padding: 20px 0px 15px; */
 }
 .shope_item4{
     height: 250px;
     width: 250px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     background-image: url("box96.jpg");
     background-size: cover;
+    /* padding: 20px 0px 15px; */
 }
 
 .shope_item5{
     height: 250px;
     width: 150px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     background-image: url("box95.jpg");
     background-size: cover;
+    padding: 20px 0px 15px;
 }
 
 .shope_item6{
     height: 250px;
     width: 200px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     background-image: url("box93.jpg");
     background-size: cover;
+    padding: 20px 0px 15px;
+}
+.shop_section2 ~ p{
+    font-size: 30px;
 }
