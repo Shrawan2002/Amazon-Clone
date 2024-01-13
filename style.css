@@ -301,11 +301,10 @@ nav_cart{
     align-items: center;
     /* background-color: #007185; */
 }
-
 .shope_item7{
-    height: 240px;
-    width: 230px;
+    height: 230px;
+    width: 180px;
     border: 2px solid black;
     background-image: url("box97.jpg");
-    background-size: cover;
 }
+
