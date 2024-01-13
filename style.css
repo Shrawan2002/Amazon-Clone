@@ -275,3 +275,12 @@ nav_cart{
     font-size: 1.5rem;
     margin-left: 2rem;
 }
+
+.shope_section3{
+    height: 282px;
+    width: 98%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
