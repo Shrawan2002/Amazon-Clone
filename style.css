@@ -290,6 +290,18 @@ nav_cart{
     margin-bottom: 1rem;
 }
 
+.shope_content1{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    /* height: 270px; */
+    width: 98%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: #007185; */
+}
+
 .shope_item7{
     height: 240px;
     width: 230px;
