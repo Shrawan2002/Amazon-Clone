@@ -311,7 +311,7 @@ nav_cart{
 .shope_item8{
     height: 200px;
     width: 251px;
-    border:2px solid black;
+    /* border:2px solid black; */
     background-image: url("box98.jpg");
     background-size: cover;
 }
@@ -319,7 +319,7 @@ nav_cart{
 .shope_item9{
     height: 188px;
     width: 270px;
-    border:2px solid black;
+    /* border:2px solid black; */
     background-image: url("box99.jpg");
     background-size: cover;
 }
@@ -328,6 +328,13 @@ nav_cart{
     width: 200px;
     /* border:2px solid black; */
     background-image: url("box912.jpg");
+    background-size: cover;
+}
+.shope_item12{
+    height: 159px;
+    width: 270px;
+    /* border:2px solid black; */
+    background-image: url("box913.jpg");
     background-size: cover;
 }
 
