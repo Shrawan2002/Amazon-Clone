@@ -346,3 +346,8 @@ h{
     margin-top: 0.5rem;
 
 }
+.page_signin{
+    /* margin-top: 1rem; */
+    height: 250px;
+    background-color:white;
+}
