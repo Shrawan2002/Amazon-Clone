@@ -351,6 +351,9 @@ h{
     height: 150px;
     background-color:white;
     margin-bottom: 1rem;
+    display: flex;
+    align-content: center;
+    justify-content: center;
     
 }
 
@@ -361,3 +364,4 @@ h{
     border-radius: 2px;
     margin-top: 3rem;
 }
+
