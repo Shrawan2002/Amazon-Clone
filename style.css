@@ -368,9 +368,10 @@ h{
 .dive{
     height: 27px;
     width: 215px;
-    border-radius: 4px solid black;
+    border: 2px solid black;
+    border-radius: 1px solid black;
     margin-top: 0.3rem;
     margin-bottom: 0.3rem;
-    background-color: #b15e10;
+    background-color:rgba(240, 191, 76, 1)
 }
 
