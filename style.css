@@ -355,8 +355,8 @@ h{
 
 .signing{
     height: 130px;
-    width: 99%;
-    border: 0.5px solid black;
+    width: 99.8%;
+    border: 2px solid rgba(242, 238, 241, 0.985);
     border-radius: 3px;
     margin-top: 3rem;
     display: flex;
