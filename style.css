@@ -358,7 +358,7 @@ h{
     width: 99.8%;
     border: 2px solid rgba(242, 238, 241, 0.985);
     border-radius: 3px;
-    margin-top: 3rem;
+    margin-top: 2rem;
     display: flex;
     flex-direction: column;
     /* align-content: center; */
@@ -383,4 +383,16 @@ h{
 
 .signing .signingp2 a{
     text-decoration: none;
+}
+footer{
+    margin-top: 15px;
+}
+.foot_panel1{
+    background-color: #37475a;
+    height: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
