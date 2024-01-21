@@ -348,9 +348,9 @@ h{
 }
 .page_signin{
     /* margin-top: 1rem; */
-    height: 150px;
+    height: 140px;
     background-color:white;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .signing{
@@ -358,7 +358,7 @@ h{
     width: 99.8%;
     border: 2px solid rgba(242, 238, 241, 0.985);
     border-radius: 3px;
-    margin-top: 2rem;
+    margin-top: 2.5rem;
     display: flex;
     flex-direction: column;
     /* align-content: center; */
@@ -385,7 +385,7 @@ h{
     text-decoration: none;
 }
 footer{
-    margin-top: 15px;
+    margin-top: 5px;
 }
 .foot_panel1{
     background-color: #37475a;
