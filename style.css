@@ -402,8 +402,10 @@ footer{
     color: white;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 
 }
 ul a{
     display: flex;
+    margin-top: 10px;
 }
