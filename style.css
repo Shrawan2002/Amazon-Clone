@@ -408,4 +408,6 @@ footer{
 ul a{
     display: flex;
     margin-top: 10px;
+    align-items: center;
+    
 }
