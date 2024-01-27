@@ -422,18 +422,18 @@ ul{
 
 .foot_panel3{
     background-color: #222f3d;
-    height: 70px;
+    height: 170px;
     color: white;
     border-top: 0.5px solid white;
 
 }
 
-..logo{
+.logo{
     background-image:url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
-    display: flex;
+    
     justify-content: center;
     align-items: center;
 }
