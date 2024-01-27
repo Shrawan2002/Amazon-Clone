@@ -425,6 +425,9 @@ ul{
     height: 170px;
     color: white;
     border-top: 0.5px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -432,8 +435,13 @@ ul{
     background-image:url("amazon_logo.png");
     background-size: cover;
     height: 50px;
-    width: 100%;
+    width: 80px;
     
-    justify-content: center;
-    align-items: center;
+    
+}
+.hi{
+    height: 50px;
+    width: 80px;
+    background-color: #febd68;
+
 }
