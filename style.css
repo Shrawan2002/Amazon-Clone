@@ -444,4 +444,10 @@ ul{
     background-color: #222f3d;
     margin-left: 15px;
 }
-
+.button2{
+    height:30px;
+    width: 125px;
+    border: 2px solid white;
+    background-color: #222f3d;
+    margin-left: 5px;
+}
