@@ -437,3 +437,9 @@ ul{
     height: 50px;
     width: 80px;
 }
+.button1{
+    height:30px;
+    width: 100px;
+    border: 2px solid white;
+    background-color: #222f3d;
+}
