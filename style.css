@@ -439,15 +439,16 @@ ul{
 }
 .button1{
     height:30px;
-    width: 150px;
-    border: 0.2px solid white;
+    width: 110px;
+    border: 0.1px solid white;
+    border-radius: 0.5px solid white;
     background-color: #222f3d;
-    margin-left: 15px;
+    /* margin-left: 15px; */
     color: white;
 }
 .button2{
     height:30px;
-    width: 125px;
+    width: 150px;
     border: 0.2px solid white;
     background-color: #222f3d;
     margin-left: 5px;
