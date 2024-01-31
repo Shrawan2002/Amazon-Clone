@@ -439,17 +439,19 @@ ul{
 }
 .button1{
     height:30px;
-    width: 100px;
-    border: 2px solid white;
+    width: 150px;
+    border: 0.2px solid white;
     background-color: #222f3d;
     margin-left: 15px;
+    color: white;
 }
 .button2{
     height:30px;
     width: 125px;
-    border: 2px solid white;
+    border: 0.2px solid white;
     background-color: #222f3d;
     margin-left: 5px;
+    color: white;
 }
 .buttonLayout{
     margin-left: 80px;
