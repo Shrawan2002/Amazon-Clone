@@ -453,7 +453,14 @@ ul{
     background-color: #222f3d;
     margin-left: 5px;
     color: #dddd;
+    display: flex;
 }
 .buttonLayout{
     margin-left: 80px;
+}
+.flag{
+    height: 15px;
+    width: 30px;
+    background-color: #cccccc;
+
 }
