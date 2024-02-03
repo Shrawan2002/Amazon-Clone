@@ -445,6 +445,9 @@ ul{
     background-color: #222f3d;
     /* margin-left: 15px; */
     color: #dddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .button2{
     height:30px;
@@ -454,13 +457,25 @@ ul{
     margin-left: 5px;
     color: #dddd;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-right:15px ; */
 }
 .buttonLayout{
     margin-left: 80px;
+    display: flex;
+    font-size: 0.9rem;
+    justify-content:center ;
+    align-items: center;
+    /* align-content: center; */
 }
 .flag{
     height: 15px;
-    width: 30px;
-    background-color: #cccccc;
-
+    width: 20px;
+    /* background-color: white; */
+    margin-left: 1px;
+    background-image: url("flag2.jpg");
+    background-size: cover;
+    margin-right: 20px;
+    
 }
