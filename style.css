@@ -444,7 +444,7 @@ ul{
     border-radius: 0.5px solid white;
     background-color: #222f3d;
     /* margin-left: 15px; */
-    color: white;
+    color: #dddd;
 }
 .button2{
     height:30px;
@@ -452,7 +452,7 @@ ul{
     border: 0.2px solid white;
     background-color: #222f3d;
     margin-left: 5px;
-    color: white;
+    color: #dddd;
 }
 .buttonLayout{
     margin-left: 80px;
