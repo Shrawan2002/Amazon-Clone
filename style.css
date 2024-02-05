@@ -452,7 +452,7 @@ ul{
 .button2{
     height:30px;
     width: 150px;
-    border: 0.2px solid white;
+    border: 0.2px solid #dddd;
     background-color: #222f3d;
     margin-left: 5px;
     color: #dddd;
@@ -473,9 +473,13 @@ ul{
     height: 15px;
     width: 20px;
     /* background-color: white; */
-    margin-left: 1px;
+    margin-left: 2px;
     background-image: url("flag2.jpg");
     background-size: cover;
     margin-right: 20px;
     
+}
+.button2 h{
+    font-size: 0.9rem;
+    margin-right: 70px;
 }
