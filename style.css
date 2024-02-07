@@ -470,8 +470,8 @@ ul{
     /* align-content: center; */
 }
 .flag{
-    height: 15px;
-    width: 20px;
+    height: 20px;
+    width: 50px;
     /* background-color: white; */
     margin-left: 15px;
     background-image: url("flag2.jpg");
@@ -492,7 +492,12 @@ ul{
     /* margin-right:15px ; */
 
 }
-.button3 .element{
-    margin-right: 15px;
+.element{
+    margin-right: 25px;
     border: none;
+    display: flex;
+    height: 15px;
+    width: 125px;
+    b
+    
 }
