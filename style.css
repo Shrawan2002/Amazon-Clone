@@ -473,7 +473,7 @@ ul{
     height: 15px;
     width: 20px;
     /* background-color: white; */
-    margin-left: 7px;
+    margin-left: 15px;
     background-image: url("flag2.jpg");
     background-size: cover;
     margin-right: 20px;
@@ -484,7 +484,7 @@ ul{
     width: 150px;
     border: 0.2px solid #dddd;
     background-color: #222f3d;
-    /* margin-left: 5px; */
+    margin-left: 5px;
     color: #dddd;
     display: flex;
     /* justify-content: space-around; */
@@ -492,6 +492,7 @@ ul{
     /* margin-right:15px ; */
 
 }
-.element{
-    /* margin-right: 30px; */
+.button3 .element{
+    margin-right: 15px;
+    border: none;
 }
