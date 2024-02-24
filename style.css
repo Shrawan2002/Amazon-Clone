@@ -496,3 +496,18 @@ ul{
     margin-right: 15px;
     border: none;
 }
+
+.foot_panel4{
+    height: 70px;
+    background-color: #0f1111;
+    text-align: center;
+    color: white;
+    font-size: 0.7rem;
+
+}
+.pages{
+    padding-top: 25px;
+}
+.copyright{
+    padding-top: 5px;
+}
